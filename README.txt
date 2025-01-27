@@ -10,9 +10,9 @@ This project is a Python-based blockchain application that provides transaction 
 
 # Usage
 
-1. Clone the repository: git clone https://github.com/yourusername/Blockchain-Simulation.git
+1. Clone the repository: git clone https://github.com/yourusername/Blockchain-Simulator.git
 
-2. Navigate to the project directory: cd Blockchain-Simulation
+2. Navigate to the project directory: cd Blockchain-Simulator
 
 3. Run a server: pipenv run python blockchain.py --port <port number>
 
